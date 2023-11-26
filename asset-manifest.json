@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f048b1c.css",
+    "main.js": "/static/js/main.40d4fa5a.js",
+    "static/media/SoukouMincho.woff": "/static/media/SoukouMincho.9c3e8b70cba3733467e0.woff",
+    "static/media/SoukouMincho.woff2": "/static/media/SoukouMincho.769faecdaacecac5c500.woff2",
+    "index.html": "/index.html",
+    "main.4f048b1c.css.map": "/static/css/main.4f048b1c.css.map",
+    "main.40d4fa5a.js.map": "/static/js/main.40d4fa5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f048b1c.css",
+    "static/js/main.40d4fa5a.js"
+  ]
+}
